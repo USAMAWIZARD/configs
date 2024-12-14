@@ -1,0 +1,26 @@
+modmap:
+  - name: univarsal map
+    remap:
+      CapsLock: KEY_ESC
+      CapsLock:
+        held: KEY_LEFTMETA 
+        alone: KEY_ESC
+      KEY_LEFTSHIFT:
+        held: KEY_LEFTSHIFT
+        alone: KEY_BACKSPACE
+      KEY_ESC:
+        held: KEY_GRAVE  
+        alone: [KEY_LEFTSHIFT,KEY_GRAVE] 
+        alone_timeout_millis: 300
+        
+      
+
+keymap:
+  - name: Emacs binding
+    application:
+      only: Slack
+    remap:
+      C-b: left
+      C-f: right
+      C-p: up
+      C-n: down
