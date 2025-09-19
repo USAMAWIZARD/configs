@@ -16,7 +16,16 @@ set -x N_PREFIX "$HOME/n"; contains "$N_PREFIX/bin" $PATH; or set -a PATH "$N_PR
 set -x N_PREFIX "$HOME/n"; contains "$N_PREFIX/bin" $PATH; or set -a PATH "$N_PREFIX/bin"  # Added by n-install (see http://git.io/n-install-repo).
 
 set -x N_PREFIX "$HOME/n"; contains "$N_PREFIX/bin" $PATH; or set -a PATH "$N_PREFIX/bin"  # Added by n-install (see http://git.io/n-install-repo).
+
 alias c clear
 alias m make
 alias p pwd
 alias sudo sudo
+alias l ls
+alias h 'cd ..'
+alias dc cd 
+alias f fzf 
+alias kams 'sudo fuser -k 5080/tcp'
+
+# Created by `pipx` on 2025-03-18 18:00:45
+set PATH $PATH /home/usama/.local/bin
