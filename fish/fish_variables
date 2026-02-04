@@ -1,0 +1,8 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR --export --path PATH:/home/usama/\x2ejenv/bin\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/\x2ejenv/shims\x1e/home/usama/learn/AntMedia/webrtc\x2dcheckout/depot_tools\x1e/home/usama/Downloads/crash/jetbrains\x2dtoolbox\x2d2\x2e7\x2e0\x2e48109/bin\x1e/home/usama/Android/Sdk/emulator\x1e/home/usama/Android/flutter/bin\x1e/home/usama/Android/Sdk/platform\x2dtools\x1e/usr/lib/jvm/java\x2d23\x2dopenjdk/bin\x1e/home/usama/go/bin\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/var/lib/snapd/snap/bin\x1e/home/usama/n/bin\x1e/home/usama/\x2elocal/bin
+SETUVAR --export PYENV_ROOT:/home/usama/\x2epyenv
+SETUVAR __fish_initialized:4300
+SETUVAR _fisher_edc_2F_bass_files:\x7e/\x2econfig/fish/functions/__bass\x2epy\x1e\x7e/\x2econfig/fish/functions/bass\x2efish
+SETUVAR _fisher_upgraded_to_4_4:\x1d
+SETUVAR fish_user_paths:/home/usama/learn/AntMedia/webrtc\x2dcheckout/depot_tools\x1e/home/usama/Downloads/crash/jetbrains\x2dtoolbox\x2d2\x2e7\x2e0\x2e48109/bin\x1e/home/usama/Android/Sdk/emulator\x1e/home/usama/Android/flutter/bin\x1e/home/usama/Android/Sdk/platform\x2dtools\x1e/usr/lib/jvm/java\x2d23\x2dopenjdk/bin\x1e/home/usama/go/bin\x1e/usr/lib/jvm/java\x2d17\x2dopenjdk/bin
